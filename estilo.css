@@ -4,7 +4,7 @@ body{
 }
 
 #principal {
-	width: 900px;
+	width:100%;
 }
 
 #menu {
@@ -13,8 +13,8 @@ body{
 }
 
 #conteudo {
-	background: #f8d0e9;
-	padding: 10px;
+	
+	padding: 5px;
 }
 
 #rodape {
@@ -45,3 +45,35 @@ h1 {
 	font-size: 2.2em;
 }
 
+#video-projetos{ 
+	max-width:300px;
+	max-height:200px;
+	width:auto; 
+	height:auto;
+	margin-top: 30px;
+	border: 10px dotted rgb(233, 64, 188);
+}
+
+#retangulo {
+	line-height:0;
+	width:auto;
+	height:250px;
+	float: left;
+	border: 1px solid purple
+	
+	
+}
+
+#retangulo-1{
+	width:250px;
+	height:250px;
+	float:left;
+	background: #f8d0e9;
+}
+#retangulo-2{
+	width:350px;
+	height:250px;
+	float:left;
+	background: #f8d0e9;
+	
+}
